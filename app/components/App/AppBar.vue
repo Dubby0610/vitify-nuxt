@@ -42,7 +42,7 @@ const { loggedIn, clear, user } = useUserSession()
     />
     <v-btn
       icon
-      href="https://github.com/kingyue737/vitify-nuxt"
+      href="https://github.com/Dubby0610/vitify-nuxt"
       size="small"
       class="ml-2"
       target="_blank"
