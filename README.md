@@ -35,7 +35,7 @@
 
 - 📥 APIs auto importing - for Composition API, VueUse and custom composables
 
-- ☁️ Deploy on [Netlify](https://www.vercel.com/), zero-config
+- ☁️ Deploy on [Vercel](https://www.vercel.com/), zero-config
 
 - 🦾 TypeScript 100%
 
