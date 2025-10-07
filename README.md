@@ -104,7 +104,7 @@
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit kingyue737/vitify-nuxt my-vitify-app
+npx degit Dubbby0610/vitify-nuxt my-vitify-app
 cd my-vitify-app
 pnpm i
 ```
