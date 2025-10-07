@@ -20,7 +20,7 @@
 </p>
 
 <p align='center'>
-<a href="https://vitify-nuxt.netlify.app/">Live Demo<br><br></a>
+<a href="https://vitify-nuxt.vercel.app/">Live Demo<br><br></a>
 </p>
 
 ## Features
@@ -35,7 +35,7 @@
 
 - 📥 APIs auto importing - for Composition API, VueUse and custom composables
 
-- ☁️ Deploy on [Netlify](https://www.netlify.com/), zero-config
+- ☁️ Deploy on [Netlify](https://www.vercel.com/), zero-config
 
 - 🦾 TypeScript 100%
 
@@ -51,20 +51,20 @@
 
 - 🔔 Notification store
 
-- 📉 Data visualization with [nuxt-echarts](https://github.com/kingyue737/nuxt-echarts)
+- 📉 Data visualization with [nuxt-echarts](https://github.com/Dubby0610/nuxt-echarts)
 
 - 🎨 Theme color customization and dark mode
 
 - 📱 Responsive layout
 
-- 🛡️ Authentication backed-in using [nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils)
+- 🛡️ Authentication backed-in using [nuxt-auth-utils](https://github.com/Dubby0610/nuxt-auth-utils)
 
 ## Variants
 
-- [vitify-next](https://github.com/kingyue737/vitify-next) - Lightweight Vue 3 version without Nuxt
+- [vitify-next](https://github.com/Dubby0610/vitify-next) - Lightweight Vue 3 version without Nuxt
 
-- [vitify-electron](https://github.com/kingyue737/vitify-electron) - Vuetify + Nuxt + Electron starter
-- [vitify-admin](https://github.com/kingyue737/vitify-admin) - Vue 2.7 with i18n, browser compatibility and mock server
+- [vitify-electron](https://github.com/Dubby0610/vitify-electron) - Vuetify + Nuxt + Electron starter
+- [vitify-admin](https://github.com/Dubby0610/vitify-admin) - Vue 2.7 with i18n, browser compatibility and mock server
 
 ## Pre-packed
 
